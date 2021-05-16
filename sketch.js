@@ -18,7 +18,7 @@ function setup() {
 	engine = Engine.create();
 	world = engine.world;
 
-	roofObject=new roof(400,250,230,20);
+	roofObject=new roof(400,200,230,20);
 	bob1 = new bob(320,575,40)
 	bob2 = new bob(360,575,40)
 	bob3 = new bob(400,575,40)
